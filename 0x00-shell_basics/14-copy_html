@@ -1,0 +1,3 @@
+#!/bin/bash
+n -s /bin/ls ls
+cp -u *.html ..
